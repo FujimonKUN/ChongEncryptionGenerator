@@ -14,6 +14,8 @@ ifもelseもありません、一方通行です。
 Python 3.8
 * jaconv
 * pyperclip
+* tkinter (最初から入ってる)
+* sys (最初から入ってる)
 
 ### 使用したソフト
 
