@@ -25,6 +25,10 @@ Visual Studio Code
 
 よくわからないので一番無難だと思う**MIT LICENCE**にしました。
 
+追記
+
+これを商業利用はまずいと思うので**Apache LICENCE**に変更しました。
+
 ## 最後に
 
 おやすみなさい。
