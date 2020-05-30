@@ -1,1 +1,5 @@
 .idea/
+makefiles/dist
+makefiles/build
+makefiles/ChongEncryptionGenerator.spec
+__pycache__/
